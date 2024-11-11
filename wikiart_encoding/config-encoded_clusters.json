@@ -1,0 +1,7 @@
+{
+    "modelfile": "wikiart_compressed_reps_model.pth",
+    "trainingdir": "/scratch/lt2326-2926-h24/wikiart/train",
+    "testingdir": "/scratch/lt2326-2926-h24/wikiart/test",
+    "device": "cuda:3",
+    "batch_size": 16
+}
